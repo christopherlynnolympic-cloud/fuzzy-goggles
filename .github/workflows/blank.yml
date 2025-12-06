@@ -1,6 +1,6 @@
 https://docs.github.com/?search-overlay-open=true&search-overlay-ask-ai=true&search-overlay-input=Create%20a%20workflow a basic workflow to help you get started with Actions
 
-name: CI
+name:Chris
 
 # Controls when the workflow will run
 on:
